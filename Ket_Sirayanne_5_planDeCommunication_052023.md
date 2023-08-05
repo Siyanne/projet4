@@ -24,3 +24,10 @@ presentation:
 ## Quand communiquer avec nous?
 
 Pour discuter, voir l'évolution du projet ou même proposer des idées, il est conseillé de faire une réunion en ligne ou physique toutes les deux semaines, selon vos disponibilités.
+
+<!-- slide -->
+
+## Avec qui?
+
+- Le Chef de projet
+- Le Product Owner Soufiane
