@@ -56,7 +56,8 @@ prisma -> MySQL
 
 <!-- slide -->
 
-![Getting Started](img/veille1.png)
+![Getting Started](img/veille.png)
+![Getting Started](img/veille2.png)
 
 <!-- slide -->
 

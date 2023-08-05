@@ -29,6 +29,12 @@ https://www.notion.so/43737415060b4bb2bb151183ee947ebf?v=8d91624d79084295af9343c
 
 <!-- slide -->
 
+## kanban et tâches détaillées
+
+![Getting Started](img/kanbanTache.png)
+
+<!-- slide -->
+
 ## Kanban qu'es-ce que c'est?
 
 Kanban est une méthode gestion de projet visuelle sous la forme d'un tableau ou d'un emploi du temps.
