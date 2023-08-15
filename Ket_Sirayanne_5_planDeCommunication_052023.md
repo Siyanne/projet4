@@ -17,7 +17,7 @@ presentation:
 
 - Via Discord sur webgencia
 - Par e-mail: contact@webgencia.com ou nom.prenom@webgencia.com
-- Nous sommes aussi présent sur les réseaus sociaux : Twitter, Facebook
+- Nous sommes aussi présent sur les réseaux sociaux : Twitter, Facebook
 
 <!-- slide -->
 

@@ -101,7 +101,7 @@ React utilise une approche basée sur les composants qui peuvent être mis à jo
 
 ## Bootstrap et SASS
 
-- Facilité le CSS et mixins, écrire des morceaux de codes réutilisables
+- Faciliter le CSS et mixins, écrire des morceaux de codes réutilisables
 - Lecture et rédaction plus efficace
 - bloc de code qui permet de personnaliser plus facilement des styles préexistants et de créer des styles spécifiques.
 - Les cards => présentation des étapes
@@ -113,7 +113,7 @@ React utilise une approche basée sur les composants qui peuvent être mis à jo
 
 ## CSS
 
-- stylisé les éléments du site web que je n'ai pas pu faire en Bootstrap ou React
+- styliser les éléments du site web que je n'ai pas pu faire en Bootstrap ou React
 - Palette de couleurs
 
 <!-- slide -->
@@ -130,7 +130,7 @@ React utilise une approche basée sur les composants qui peuvent être mis à jo
   - maintenance et mise à jour simple
   - Sécurisées
 
-  => gérer par le Framework Express de Node.js etl'ORM prisma
+  => gérée par le Framework Express de Node.js et l'ORM prisma
 
 - node-deliveroo
 - instagram api => connexion avec app externe
