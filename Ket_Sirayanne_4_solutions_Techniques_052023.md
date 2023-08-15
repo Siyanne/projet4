@@ -83,7 +83,7 @@ prisma -> MySQL
 
 ## React
 
-React utilise une approche basée sur les composants qui peuvent être mis à jour indépendemment, ce qui rend le développement et la maintenance des applications plus faciles.
+React utilise une approche basée sur les composants qui peuvent être mis à jour indépendamment, ce qui rend le développement et la maintenance des applications plus faciles.
 
 - React-modal => efficace et optimale
 - React-loader-spinner => customisation et efficacité
